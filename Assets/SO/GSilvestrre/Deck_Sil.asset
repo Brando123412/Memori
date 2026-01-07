@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af2ea3da3113504ea4c7e7d6091bc74, type: 3}
+  m_Name: Deck_Sil
+  m_EditorClassIdentifier: 
+  uniqueCards:
+  - {fileID: 11400000, guid: 2a4921c27470cae4f8c60f298d1b1a67, type: 2}
+  - {fileID: 11400000, guid: c8fa6fc415a38984f97e1ca10027e1ac, type: 2}
+  - {fileID: 11400000, guid: b51ebc4b4adfca7448d6098f853b8a62, type: 2}
+  - {fileID: 11400000, guid: f6d797995f9c4704793fb12e646a223f, type: 2}
+  - {fileID: 11400000, guid: 97d0881b9665c7040a20a6e49e7019cd, type: 2}
+  - {fileID: 11400000, guid: eca5b54b445e8134a8ff3bbf65420699, type: 2}

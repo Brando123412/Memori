@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af2ea3da3113504ea4c7e7d6091bc74, type: 3}
+  m_Name: Deck_Entelgy_2
+  m_EditorClassIdentifier: 
+  uniqueCards:
+  - {fileID: 11400000, guid: e213f8f7c38ac0e44815f29242212e59, type: 2}
+  - {fileID: 11400000, guid: 7b28343bc1303884a9d42fcc73835db7, type: 2}
+  - {fileID: 11400000, guid: 5a5431d65d1851f47be1873b2d6ec29f, type: 2}
+  - {fileID: 11400000, guid: d43b87a8a1031414a9c8a49e80b3a417, type: 2}
+  - {fileID: 11400000, guid: fcdebf5c68936824c9d3872e6100b827, type: 2}
+  - {fileID: 11400000, guid: 33a47574d51f49e4b84d108193b351d4, type: 2}
