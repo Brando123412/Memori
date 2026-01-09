@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af2ea3da3113504ea4c7e7d6091bc74, type: 3}
+  m_Name: Deck_Inpelsa
+  m_EditorClassIdentifier: 
+  uniqueCards:
+  - {fileID: 11400000, guid: f0c5330a3de60da4793d42f8b4730e31, type: 2}
+  - {fileID: 11400000, guid: 81361a89398eada4c9e299c58010b560, type: 2}
+  - {fileID: 11400000, guid: f56dddbb33f74d2409b228812b79acff, type: 2}
+  - {fileID: 11400000, guid: 6c220714f6df72041a8f2f6ff884cf0d, type: 2}
+  - {fileID: 11400000, guid: a8846a55ecc06d34ea964bf3d9401708, type: 2}
+  - {fileID: 11400000, guid: a99ed1b4d1d14d04aa445a40675903fc, type: 2}
+  - {fileID: 11400000, guid: cfa19d1848c67a640a54664b76854500, type: 2}
+  - {fileID: 11400000, guid: a0fc1bf4370170844b8c870f43831cfe, type: 2}
+  - {fileID: 11400000, guid: 9fd2fcbe8a579d14dab75f774319e801, type: 2}
+  - {fileID: 11400000, guid: a91921d408051874a8fc924cb653b6c9, type: 2}

@@ -116,7 +116,7 @@ public class GameManager : MonoBehaviour
             return;
 
         int total = Mathf.CeilToInt(Mathf.Max(0, timeRemaining));
-        timerText.text = $"{total / 60:00}:{total % 60:00}";
+        timerText.text = total.ToString();
     }
 
     void ClearGrid()
